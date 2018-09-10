@@ -17,8 +17,7 @@
 *.ipr
 *.project
 *.classpath
-*.mvn
-*.mvnw.cmd
+
 
 
 ### NetBeans ###
